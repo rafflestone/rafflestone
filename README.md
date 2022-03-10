@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rafflestone
+- 👀 I’m interested in blockchain
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on anything that is opensource
+- 📫 How to reach me -> raffle@lotme.in
